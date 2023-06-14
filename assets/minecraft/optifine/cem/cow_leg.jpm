@@ -1,0 +1,15 @@
+{
+	"textureSize": [64, 64],
+	"credit": "Made by Kruzer",
+	"boxes": [
+		{
+			"coordinates": [-2, 0, -2, 4, 12, 4],
+			"uvNorth": [4, 20, 8, 32],
+			"uvEast": [0, 20, 4, 32],
+			"uvSouth": [12, 20, 16, 32],
+			"uvWest": [8, 20, 12, 32],
+			"uvUp": [4, 16, 8, 20],
+			"uvDown": [8, 16, 12, 20]
+		}
+	]
+}

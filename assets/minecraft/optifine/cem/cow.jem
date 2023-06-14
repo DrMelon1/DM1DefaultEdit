@@ -1,0 +1,36 @@
+{
+	"textureSize": [64, 64],
+	"credit": "Made by Kruzer",
+	"models": [
+    {
+		"part": "head",
+		"model": "cow_head.jpm",
+		"attach": "true"
+    },
+	{
+		"part": "body",
+		"model": "cow_body.jpm",
+		"attach": "false"
+	},
+	{
+		"part": "leg1",
+		"model": "cow_leg.jpm",
+		"attach": "false"
+	},
+	{
+		"part": "leg2",
+		"model": "cow_leg.jpm",
+		"attach": "false"
+	},
+	{
+		"part": "leg3",
+		"model": "cow_leg.jpm",
+		"attach": "false"
+	},
+	{
+		"part": "leg4",
+		"model": "cow_leg.jpm",
+		"attach": "false"
+		}
+	]
+}

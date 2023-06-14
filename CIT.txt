@@ -1,0 +1,210 @@
+Rename Options:
+
+README!: adding other words works too (f.e. portalgun (as long as portal is in the name it works !))
+
+Bow = Assault_Rifle
+
+Bow = Revolver
+
+Elytra = Dragon
+
+Elytra = Phantom
+
+ELytra = Red Parrot
+
+Elytra = Yellow Blue Parrot
+
+Elytra = Iron Man
+
+Elytra = Invisible
+
+Netherite Axe = Stormlander
+
+Netherite Axe = Hammer Of Gravity
+
+Crossbow = Butterfly Crossbow
+
+Netherite Axe = Jotunn
+
+Book and Quill = spys diary
+
+Written Book = Necromancy
+
+Diamond Axe = Butcher
+
+Book and Quill = Captains Log
+
+Flint and Steel = Diamond Flint and Steel
+
+Book and Quill = do not read
+
+Book = Envol
+
+Emerald = Friendship
+
+Written Book = How to Sex / How to Sex 2 / How to Sex 3
+
+Pufferfish = Phukkit
+
+Enchanted Golden Apple = Rapple
+
+Paper = thanks :)
+
+diamond boots = yeezys
+
+cat = patches
+
+netherite axe = language
+
+armor set = badlands
+
+netherite sword = crucible
+
+armor set = doom
+
+netherite axe / sword / bow = nightmare
+
+armor set = dream
+
+netherite axe / sword / bow = ultimate
+
+armor set = drmelonblox
+
+armor set = egg
+
+netherite axe / hoe / pickaxe / shovel / sword + armor set = emerald
+
+crossbow = m16
+
+netherite helmet = heros armor helmet
+
+netherite helmet = marshmello
+
+bow = angel bow
+
+crossbow = azure seeker
+
+netherite sword = broadsword
+
+iron sword = claymore
+
+crossbow = corrupted crossbow
+
+netherite axe = cursed axe
+
+diamond pickaxe = dungeons diamond pickaxe
+
+diamond sword = dungeons diamond sword
+
+bow = elite power bow
+
+netherite sword = eternal knife
+
+netherite sword = heartstealer
+
+crossbow = heavy crossbow
+
+netherite axe = highland axe
+
+netherite axe = kings axe
+
+netherite sword = neurobreaker
+
+crossbow = pride of the piglins
+
+bow = sabrewing
+
+netherite sword = soul fire dirk
+
+crossbow = voidcaller
+
+netherite axe = whirlwind
+
+netherite sword = whispering spear
+
+netherite chestplate = merchandise
+
+netherite sword = katana
+
+netherite sword = kunai
+
+netherite axe = nokia
+
+crossbow = portal
+
+netherite helmet = ranmlet
+
+netherite chestplate = ranchest
+
+netherite leggings = ranpants
+
+netherite boots = ranboots
+
+netherite axe = axe of ender / dat axe tho / i cant think of any more axe puns / i must axe you 
+something
+
+netherite hoe = hoeboo / ranhoe
+
+netherite pickaxe = i am picky / pickboo / ranpick
+
+netherite shovel = ace of spades / darth spader
+
+netherite sword = a little off camera grinding
+
+netherite sword = schlong
+
+turtle helmet = scuba
+
+armor set = SpaceX
+
+netherite sword = blue- / green- / red lightsaber
+
+armor set = stormtrooper
+
+armor set = tim
+
+diamond axe = command block diamond axe
+
+diamond hoe = command block diamond hoe
+
+diamond pickaxe = command block diamond pickaxe
+
+diamond shovel = command block diamond shovel
+
+diamond sword = command block diamond sword
+
+netherite axe = axe of peace
+
+netherite axe = orphan obliterator
+
+crossbow = rocket launcher
+
+netherite pickaxe = technodrill / toothpick
+
+netherite axe = tomahawk
+
+bow = tommy / twitlonger
+
+crossbow = chekovs gun
+
+netherite sword = zNoscope
+
+cat = muffin / purple
+
+cow = moobloom / wooly cow
+
+enderman = ranboo / slenderman
+
+fox = fundy
+
+iron golem = dream
+
+llama = jolly
+
+pig = dried pig / muddy pig
+
+sheep = mountain / horned sheep
+
+Villager = PewDiePie
+
+Chicken = cluckshroom

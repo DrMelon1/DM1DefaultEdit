@@ -1,0 +1,32 @@
+{
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"rotate": [0, -180, 0],
+			"submodels": [
+				{
+					"id": "seaweed",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-2.5, 20, 0.5, 2, 1, 0], "textureOffset": [28, 0]},
+						{"coordinates": [-2.5, 11, 0.5, 2, 1, 0], "textureOffset": [28, 0]},
+						{"coordinates": [-3.5, 13, -0.5, 3, 1, 0], "textureOffset": [26, 2]},
+						{"coordinates": [-1.5, 19, 0.5, 1, 1, 0], "textureOffset": [30, 1]},
+						{"coordinates": [-1.5, 7, -0.5, 1, 1, 0], "textureOffset": [30, 1]}
+					]
+				}
+			],
+			"boxes": [
+				{"coordinates": [-1.5, 25, -0.5, 3, 2, 1], "textureOffset": [4, 0]},
+				{"coordinates": [-0.5, 0, -0.5, 1, 31, 1], "textureOffset": [0, 0]},
+				{"coordinates": [1.5, 26, -0.5, 1, 4, 1], "textureOffset": [4, 3]},
+				{"coordinates": [-2.5, 26, -0.5, 1, 4, 1], "textureOffset": [4, 3]}
+			]
+		}
+	]
+}
