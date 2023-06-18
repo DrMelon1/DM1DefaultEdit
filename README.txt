@@ -1,0 +1,3 @@
+- You need to use Optifine or else some Things won't work!
+- There's a slightly NSFW picture in the paintings just so you're aware (please don't kill me GitHub mods)!
+- When renaming specific Items it's good to know that you can combine the CIT Keywords with other Words and it'll still work!
